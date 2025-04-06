@@ -68,9 +68,11 @@ A cross-platform billing system built using **Flutter** that allows shop owners 
 
 ## 📱 Video
 
+https://github.com/user-attachments/assets/cdbd364b-58bc-4f3d-bdda-e107d14a05e5
 
 
-https://github.com/user-attachments/assets/a745e852-026b-4740-bf78-11cb5a1d7ff4
+
+
 
 
 
